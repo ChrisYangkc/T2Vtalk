@@ -201,11 +201,7 @@ Additionally, you can use the WebUI from the following project as a reference to
 - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 ### Modify Sample Images
-You can replace or add sample images in the following folder:
-
-```bash
-  ex
-```
+You can replace or add sample images in the following folder `ex`
 
 The WebUI automatically loads the images in this folder as selectable input. Please ensure that the images are in `.png` or `.jpg` format and match the expected input size of the model. To customize which images are shown, you may also modify the code in `webui.py`
 
