@@ -12,7 +12,7 @@ T2Y is an integrated emotion-aware AI system that enables real-time emotional in
 ### Download the Codes
 
 ```bash
-  git clone https://github.com/BadToBest/EchoMimic
+  git clone https://github.com/ChrisYangkc/T2Vtalk.git
   cd T2Vtalk
 ```
 
